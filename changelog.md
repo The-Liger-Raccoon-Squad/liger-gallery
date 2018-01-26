@@ -11,6 +11,7 @@ Release Date: Jan 25, 2018
 ## New Components
 
 -   Changed to code igniter application
+-   Created database "liger-gallery"
 -   controllers
 
     -   Added gallery and about (David Liu)
@@ -20,10 +21,11 @@ Release Date: Jan 25, 2018
 -   controllers
 
     -   Updated controllers welcome, gallery and about to support the interal design changes
-
+    -   Updated gallery and welcome (David Liu)
+    
 -   models
 
-    -   italian (AB)
+    -   Created images.php (David Liu)   
 
 -   views
 
@@ -31,3 +33,5 @@ Release Date: Jan 25, 2018
     -   changed menu for the above files (David Liu)
     -   Moved common code into template.php (Davis Pham)
     -   Removed common code from welcome.php, gallery.php and about.php (Davis Pham)
+    -   Created _cell.php (David Liu)
+    -   Updated gallery and welcome view (David Liu)
