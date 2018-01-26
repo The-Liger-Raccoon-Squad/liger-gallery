@@ -1,6 +1,6 @@
 #Change Log
 
-Team membership: Davis Pham (Captain) & David Liu (First Mate)
+Team membership: Davis Pham (Captain) & David (Heqing) Liu (First Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
@@ -10,16 +10,16 @@ Release Date: Jan 25, 2018
 
 ## New Components
 
+-   Changed to code igniter application
 -   controllers
 
-    -   serbian (AB)
+    - Added gallery and about (David Liu) 
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    - 
 
 -   models
 
@@ -27,7 +27,6 @@ Release Date: Jan 25, 2018
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
-
+    -   added welcome.php, about.php, gallery.php (David Liu)
+    -   changed menu for the above files (David Liu)
 
