@@ -13,13 +13,13 @@ Release Date: Jan 25, 2018
 -   Changed to code igniter application
 -   controllers
 
-    - Added gallery and about (David Liu) 
+    -   Added gallery and about (David Liu)
     
 ## Updated Components
 
 -   controllers
 
-    - 
+    -   Updated controllers welcome, gallery and about to support the interal design changes
 
 -   models
 
@@ -29,4 +29,5 @@ Release Date: Jan 25, 2018
 
     -   added welcome.php, about.php, gallery.php (David Liu)
     -   changed menu for the above files (David Liu)
-
+    -   Moved common code into template.php (Davis Pham)
+    -   Removed common code from welcome.php, gallery.php and about.php (Davis Pham)
